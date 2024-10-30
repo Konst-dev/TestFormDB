@@ -42,9 +42,6 @@
                     </div>
 
                     <input type="submit" value="Отправить" class="form_submit">
-
-
-
                 </form>
             </div>
 
